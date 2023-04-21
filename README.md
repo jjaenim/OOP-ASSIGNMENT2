@@ -1,4 +1,4 @@
-# Hi, I am Joshua Adrian O. Daet
+# Hi, I am Joshua Adrian O. Daet :wave:
 I am a First Year Computer Engineering student of Polytechnic University of the Philippines.
 
 # Code Decryption Tool
@@ -10,9 +10,9 @@ This Python software is a straightforward decryption tool that replaces the orig
 * The program decrypts the encrypted text
 * The program displays the decrypted text
 
-## Character Mappings
-* * is replaced with a
-* & is replaced with e
-* # is replaced with i
-* + is replaced with o
-* ! is replaced with u
+## Character Replacement
+* "*" is replaced with "a"
+* "&" is replaced with "e"
+* "#" is replaced with "i"
+* "+" is replaced with "o"
+* "!" is replaced with "u"
